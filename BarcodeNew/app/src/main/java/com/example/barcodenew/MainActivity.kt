@@ -48,6 +48,7 @@ class MainActivity : AppCompatActivity() {
         "GS1 Databar Limited(Limited)",
         "GS1 Databar Expanded(Expanded)",
         "GS1 Databar Expanded(ExpandedStacked)"
+	"Code93"
     )
 
     override fun onCreate(savedInstanceState: Bundle?) {
