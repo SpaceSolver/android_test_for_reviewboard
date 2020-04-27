@@ -1,0 +1,2 @@
+# androit_test_for_reviewboard
+reviewboard-GitHub連携確認用テストリポジトリ
